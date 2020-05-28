@@ -1,0 +1,5 @@
+1. git init
+2. git clone "远程仓库地址"
+3. git add .  //加入所有文件到本地仓库
+4. git commit -m "描述信息"
+5. git push
